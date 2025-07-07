@@ -1,4 +1,4 @@
-# 📊 Database Systems – Part 1
+# 📊 Database Systems – Part 1&2
 
 This repository contains a presentation covering the fundamentals of database systems as part of my Data Engineering learning journey.
 
@@ -14,10 +14,11 @@ This repository contains a presentation covering the fundamentals of database sy
 - Replication vs Fragmentation
 
 ## 🎯 Purpose:
-This is **Part 1** of a multi-part series where I explain what I learn using visual presentations to help both myself and others understand the core concepts.
+This is **Part 1&2** of a multi-part series where I explain what I learn using visual presentations to help both myself and others understand the core concepts.
 
 ## 📁 Files:
-- `Database-Introduction.pdf` – Main presentation
+- `Database-Intro-1.pdf` – 1st presentation
+- `Database-Intro-2.pdf` – 2nd presentation
 
 ## 🙌 Feedback:
 Feel free to share your feedback or suggestions!
