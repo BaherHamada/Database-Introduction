@@ -19,6 +19,8 @@ This is **Part 1&2** of a multi-part series where I explain what I learn using v
 ## 📁 Files:
 - `Database-Intro-1.pdf` – 1st presentation
 - `Database-Intro-2.pdf` – 2nd presentation
+- [🖥 View Presentation on Canva](https://www.canva.com/design/DAGsWCWmH-c/VKPjFNc5g2MFNWniiGjGjw/edit?utm_content=DAGsWCWmH-c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 ## 🙌 Feedback:
 Feel free to share your feedback or suggestions!
